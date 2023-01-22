@@ -12,14 +12,14 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/108701750/213945810-e456ee81-2eca-4727-9795-c2f81ef95016.png">
+ <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Habits" src="https://user-images.githubusercontent.com/108701750/213946120-d688ed6e-834a-4f27-8242-1e9da40c938a.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
