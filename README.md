@@ -2,6 +2,8 @@
 <img alt="Hábitos" src="https://cdn.discordapp.com/attachments/1009179202819457094/1067531946999173186/logo.png">
 </p>
 
+---
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
