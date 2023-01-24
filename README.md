@@ -1,7 +1,5 @@
-<h1 align="center"> Habits </h1>
-
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+<img alt="Hábitos" src="https://cdn.discordapp.com/attachments/1009179202819457094/1067531946999173186/logo.png">
 </p>
 
 <p align="center">
